@@ -1,0 +1,92 @@
+.nav{
+    background-color:black;
+}
+.navfirst{
+color:white;
+margin-left: 10px;
+padding: 15px 15px;
+text-align: center;
+
+}
+.laptop{
+    width: 100%;
+    height: auto;
+}
+.head{
+    background-color:gray;
+    color:black;
+    padding-left: 15px;
+   
+}
+.headfirst{
+    text-align: center;
+}
+.headsecond{
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+.interview{
+    width: 35%;
+    height:auto;
+    margin-left: 10px;
+}
+.email{
+    width:45%;
+    height: auto;
+}
+.laptop2{
+    width:85%;
+    height: auto;
+}
+.ht{
+    padding: 7px 7px;
+    background-color:black;
+    color:white;
+    margin-left: 65%;
+    border-radius: 10px;
+   
+}
+.bodyfirst{
+    background-color: black;
+    color:white;
+
+}
+.laptop3{
+    width: 60%;
+    height: auto;
+   margin-top: 30px;
+    margin-left: 99px;
+   margin-bottom: 10px;
+}
+.bodyfirsth{
+    margin-top: 30px;
+}
+.bodysecond{
+    padding-top: 20px;
+    background-color: gray;
+    padding-left: 15px;
+}
+.footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding-left: 20%;
+}
+.finput{
+    padding: 8px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.sinput{
+  padding: 40px 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;  
+}
+.tinput{
+    padding: 8px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    color:white;
+   border-color: white;
+   background-color: black;
+}
